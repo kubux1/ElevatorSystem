@@ -3,7 +3,7 @@ Elevator system where user inputs passengers current and target floor
 
 
 Main target of the elevator system: To finish requests as quickly as possible.
-I do not take into account the optimization of electricity costs (whether the elevators will carry out 100 or 1000 trips, but if in the same number of steps they serve passengers, it will still be the same good algorithm).
+I do not take into account the optimization of electricity costs (whether the elevators will carry out 100 or 1000 trips, but if in the same number of simulation steps they serve passengers, it will still be the same good algorithm).
 I assume that the elevators have infinite capacity (it is easy to add a limiting condition to the code).
 I assume that the elevator does not know what floor the passenger will want to take until he or she enters the elevator.
 
